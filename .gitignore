@@ -1,0 +1,7 @@
+# Output yang dijana — jana semula dengan tools/build.py
+build/
+tools/__pycache__/
+
+.DS_Store
+.idea/
+.obsidian/

@@ -1,0 +1,54 @@
+% Antologi — LaTeX header for tex/pdf builds.
+%
+% pandoc loads babel without a Malay dialect (babel has no reliable `bahasam`
+% across distributions), so the book class would otherwise print English
+% section names: CONTENTS, Chapter, Figure. Override them directly.
+
+% Cover page is raw LaTeX; pandoc does not load graphicx on its own.
+\usepackage{graphicx}
+
+% pandoc's template fires \mainmatter straight after \maketitle, and the book
+% class definition opens with \cleardoublepage. Since the titlepage has just
+% ended with \newpage we are sitting on a fresh empty page, so that clear ships
+% a blank sheet carrying a folio. Strip the page break; the front-matter block
+% issues its own \clearpage before re-entering \mainmatter.
+\makeatletter
+\renewcommand{\mainmatter}{\@mainmattertrue\pagenumbering{arabic}}
+\makeatother
+
+\renewcommand{\contentsname}{Kandungan}
+\renewcommand{\chaptername}{}
+\renewcommand{\figurename}{Gambar}
+\renewcommand{\tablename}{Jadual}
+\renewcommand{\bibname}{Rujukan}
+\renewcommand{\indexname}{Indeks}
+\renewcommand{\appendixname}{Lampiran}
+
+% Story titles are centred and unnumbered; secnumdepth is already off, so this
+% only tightens the vertical space the book class leaves above a chapter.
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\filcenter}
+  {}
+  {0pt}
+  {\Large\bfseries}
+\titlespacing*{\chapter}{0pt}{30pt}{40pt}
+
+% Cover page. pandoc's template emits \maketitle with no hook in front of it, so
+% wrap the macro: the cover ships first, then the real title page. The cover is
+% outside the page numbering, so the title page stays i and the imprint ii.
+% \anthcover is set by build.py (generated .cover.tex).
+\ifdefined\anthcover
+  \let\origmaketitle\maketitle
+  \renewcommand{\maketitle}{%
+    \begingroup
+      \thispagestyle{empty}%
+      \centering
+      \null\vfill
+      \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{\anthcover}%
+      \vfill\null
+    \endgroup
+    % No \clearpage here: the titlepage environment opened by \origmaketitle
+    % breaks the page itself, and doing both leaves a blank sheet behind.
+    \origmaketitle}
+\fi
