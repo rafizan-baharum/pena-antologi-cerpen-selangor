@@ -15,16 +15,29 @@ SRC = REPO / "stories"
 FRONT = REPO / "front-matter"
 
 # TODO: confirm before submission.
-TITLE = "ANTOLOGI CERPEN SELANGOR"  # placeholder title
+TITLE = "SECEBIS HARI DI SELANGOR"
 SUBTITLE = ""
-AUTHOR = "TBD"  # pen name / editor / contributors line
+AUTHOR = "RB Arbi"
 LANG = "ms"
-EMAIL = "rafizan.baharum@canang.com.my"
+EMAIL = "ra.harum76@gmail.com"
 YEAR = 2026
 
 # Canonical anthology order, one slug per story. Story files are
 # stories/NN-<slug>.md. See MANUSCRIPT_ORDER.md.
 ORDER = [
+    "kisah-kisah-dongeng-tok-nek",
+    "mak-su-datang-hari-ini",
+    "titik-panas",
+    "antara-buku-dan-buku-lima",
+    "gelas-kaca-untuk-ibu",
+    "sekejap-singgah",
+    "ikan-halus-sungai-bernam",
+    "hanya-dua-puluh-minit",
+    "siakap-tasik-biru",
+    "raja-puisi-tiga-jam",
+    "sinekdoke",
+    "anak-sulung-tidak-menangis-di-tepi-kubur",
+    "lagu-terakhir-nami",
 ]
 
 # Optional front matter. Leave empty to omit.
