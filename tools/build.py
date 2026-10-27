@@ -10,6 +10,7 @@ import subprocess
 import sys
 import shutil
 import manuscript as m
+import reference_docx
 
 BUILD = m.REPO / "build"
 STEM = "ANTOLOGI"
@@ -109,12 +110,26 @@ def build_html():
 def build_docx():
     # The docx writer does not start Heading 1 on a new page by itself.
     text = source(separators=False).replace("\n\n# ", f"\n\n{PAGEBREAK}\n\n# ")
+    front, missing = m.front_page_md()
+    if missing:
+        print(f"  ! muka depan PENA tiada: {', '.join(missing)} (isi AUTHOR_DETAILS)")
+    # Pandoc puts title, authors, then the contents list at the top. Author
+    # details ride along as extra `author` lines (centred, 12 pt) so the front
+    # page precedes the contents; TOC Heading starts a new page.
+    rows = [l for l in front.split("\n\n") if l]
+    authors = "".join(f'  - "{r}"\n' for r in rows)
+    text = text.replace(f'author: "{m.AUTHOR}"\n',
+                        f'author:\n  - "{m.AUTHOR}"\n{authors}toc-title: "Kandungan"\n', 1)
     src = write_tmp("docx", text)
-    return run(
+    ref = reference_docx.make(BUILD / ".reference.docx")
+    ok = run(
         ["pandoc", str(src), *RES, "--from", "markdown+raw_attribute",
-         "--toc", "--toc-depth=1", "-o", f"build/{STEM}.docx"],
+         "--reference-doc", str(ref), "--toc", "--toc-depth=1",
+         "-o", f"build/{STEM}.docx"],
         "docx",
     )
+    ref.unlink(missing_ok=True)
+    return ok
 
 
 TARGETS = {

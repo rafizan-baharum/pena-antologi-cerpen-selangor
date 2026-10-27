@@ -22,6 +22,16 @@ LANG = "ms"
 EMAIL = "ra.harum76@gmail.com"
 YEAR = 2026
 
+# PENA requires these on a front page (SUBMISSION.md). Empty = not yet given;
+# build.py warns and omits the line. Do not guess.
+AUTHOR_DETAILS = [
+    ("Gelaran", ""),
+    ("Jawatan", ""),
+    ("Alamat", ""),
+    ("No. telefon", ""),
+    ("E-mel", EMAIL),
+]
+
 # Canonical anthology order, one slug per story. Story files are
 # stories/NN-<slug>.md. See MANUSCRIPT_ORDER.md.
 ORDER = [
@@ -254,3 +264,10 @@ def metadata_yaml(items):
         f'description: "Antologi {len(items)} cerpen."\n'
         "---\n"
     )
+
+
+def front_page_md():
+    """Author-details lines for the docx front page (PENA spec): (md, missing)."""
+    rows = [f"{k}: {v}" for k, v in AUTHOR_DETAILS if v]
+    missing = [k for k, v in AUTHOR_DETAILS if not v]
+    return "\n\n".join(rows), missing

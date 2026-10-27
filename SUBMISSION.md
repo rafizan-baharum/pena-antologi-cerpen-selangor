@@ -27,11 +27,11 @@
 - [ ] Imprint / penafian fiksyen disemak
 - [ ] Build format yang diminta; buka dan semak hasil
 - [ ] Sinopsis dan bio penulis siap
-- [ ] Halaman hadapan: nama, gelaran, jawatan, alamat penuh, nombor telefon, butir penulis
-- [ ] Fail Word, A4, langkau dua baris, Times New Roman / Arial 12 pt
+- [ ] Halaman hadapan: nama, gelaran, jawatan, alamat penuh, nombor telefon, butir penulis — isi `AUTHOR_DETAILS` dalam `tools/manuscript.py`
+- [x] Fail Word, A4, langkau dua baris, Times New Roman 12 pt (`tools/reference_docx.py`; build docx)
 - [ ] Bahasa Melayu sahaja; tatabahasa Dewan
 - [ ] Semua cerpen asli dan belum pernah diterbitkan (media cetak, elektronik, lain-lain)
-- [ ] Sekurang-kurangnya 38 muka surat (syarat ISBN)
+- [x] Sekurang-kurangnya 38 muka surat (syarat ISBN) — ~24k kata dua baris ≈ 85+ muka
 - [ ] Surat izin terbit sedia untuk dihantar ke PENA
 - [ ] Bibliografi di akhir manuskrip (jika ada)
 - [ ] Tiada elemen bertentangan dengan dasar Kerajaan Malaysia
