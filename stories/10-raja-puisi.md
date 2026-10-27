@@ -114,11 +114,13 @@ Malam-malam aku bawa puisi orang lain keluar dari rak, aku baling pada orang tak
 
 Padahal diam itu maknanya mereka dah tutup telefon dan pergi tidur dengan orang yang sayangkan mereka.
 
-Tiga jam, anak. Itu saja yang aku ada. Tiga jam, satu contengan, satu ayat yang barangkali betul, dan dari situ aku bina takhta, aku pakai mahkota, aku isytihar diri arkitek segala yang kau bangunkan. Akulah Raja Puisi tiga jam. Memerintah kerajaan yang rakyatnya habuk dan menterinya timbunan buku terpakai.
+Tiga jam, anak. Itu saja yang aku ada. Tiga jam, satu contengan, satu ayat yang barangkali betul, dan dari situ aku bina takhta tamsil, aku pakai mahkota majaz, aku sandang selendang rima, aku isytihar diri arkitek segala yang kau bangunkan. Akulah Raja Puisi tiga jam. Memerintah Kerajaan Bait Terakhir, yang rakyatnya habuk, menterinya timbunan buku terpakai, dan hulubalangnya baris-baris yang tak pernah sampai ke stanza kedua.
 
-Aku bukan guru kau. Guru kau ada dalam rak aku sendiri, berhabuk, penuh garisan tangan orang lain. Kalau ada orang lain dalam bilik ini malam ini, dia mungkin tarik kerusi, letak tangan atas bahu aku, dan cakap: cikgu, sudahlah tu. Aku akan melenting, kami akan bertekak. 
+Aku bukan guru kau. Guru kau ada dalam rak aku sendiri, berhabuk, penuh garisan tangan orang lain. Kalau ada orang lain dalam bilik ini malam ini, dia mungkin tarik kerusi, letak tangan atas bahu aku, dan cakap: cikgu, sudahlah tu. Aku akan melenting, dan sudah pasti kami akan bertekak. 
 
-Tapi bilik ini cuma aku dengan buku-buku. Buku tak pandai menegur. Keratan akhbar kau aku tampal di dinding, sebelah sijil tempat ketiga itu. Gam dah kering, dia melekat senget sikit. Biarlah dia senget.
+Tapi bilik ini cuma aku dengan buku-buku. Buku tak pandai menegur. 
+
+Keratan akhbar kau aku tampal di dinding, sebelah sijil tempat ketiga itu. Gam dah kering, dia melekat senget sikit. Biarlah dia senget.
 
 Tahniah, anak. Tahniah.
 
