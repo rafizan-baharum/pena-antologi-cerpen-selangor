@@ -25,10 +25,10 @@ YEAR = 2026
 # PENA requires these on a front page (SUBMISSION.md). Empty = not yet given;
 # build.py warns and omits the line. Do not guess.
 AUTHOR_DETAILS = [
-    ("Gelaran", ""),
-    ("Jawatan", ""),
-    ("Alamat", ""),
-    ("No. telefon", ""),
+    ("Gelaran", "Encik"),
+    ("Jawatan", "Penulis"),
+    ("Alamat", "Kota Damansara, Petaling Jaya, Selangor"),
+    ("No. telefon", "0122606845"),
     ("E-mel", EMAIL),
 ]
 
