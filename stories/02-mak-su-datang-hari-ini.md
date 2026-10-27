@@ -156,7 +156,7 @@ Mak Su ketawa.
 
 Ada seorang pakcik mendekati Ammar. Sebelum sempat dia membuka mulut, Ammar memberitahu pakcik tentang warna hijau.
 
-“Mak Su kata sawah Tanjung Karang ada hijau yang tak sombong. Hijau dia macam orang kampung. Tak menunjuk.”
+“Mak Su kata sawah Tanjung Karang ada hijau yang tak sombong. Hijau dia hijau orang kampung. Tak menunjuk.”
 
 Pakcik itu memandang ke luar.
 
@@ -198,7 +198,7 @@ Sakit.
 
 Mak Su sakit, itu dia tahu. Mak Su pernah buat video call dari katil. Mukanya kurus sedikit. Rambutnya ditutup scarf.
 
-Ammar tanya, “Mak Su masih nak ambik Ammar ke?”
+Ammar tanya, “Mak Su bila nak ambik Ammar?”
 
 Mak Su senyum di skrin.
 
@@ -334,7 +334,7 @@ Sawah itu hijau.
 
 Hijau yang tidak sombong.
 
-Hijau macam orang kampung.
+Hijau orang kampung.
 
 Tak menunjuk.
 
@@ -416,11 +416,11 @@ Dalam liang lahad sebelah sawah.
 
 Dalam ayat – susah bukan tanda tak boleh.
 
-Di dapur, nenek membasuh cawan perlahan-lahan. Di luar, angin sawah bergerak, tidak kuat, tidak lemah, cuma cukup untuk membuat daun bergesel antara satu sama lain.
+Di dapur, nenek membasuh cawan perlahan-lahan. Di luar, angin sawah bergerak, tidak kuat, sekadar cukup untuk membuat daun bergesel antara satu sama lain.
 
 Ammar duduk diam.
 
-Hari itu dia tidak membetulkan sesiapa. Dia tidak menerangkan Australia kepada tetamu. Dia tidak memberitahu orang tentang wombat atau palam universal. 
+Senja itu dia tidak membetulkan sesiapa. Dia tidak menerangkan Australia kepada nenek. Dia tidak memberitahu tentang wombat atau palam universal. 
 
 Dia hanya mendengar.
 
