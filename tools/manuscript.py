@@ -27,7 +27,7 @@ YEAR = 2026
 AUTHOR_DETAILS = [
     ("Gelaran", "Encik"),
     ("Jawatan", "Penulis"),
-    ("Alamat", "Kota Damansara, Petaling Jaya, Selangor"),
+    ("Alamat", "B0609, Persiaran Surian, Kota Damansara, 47410, Selangor"),
     ("No. telefon", "0122606845"),
     ("E-mel", EMAIL),
 ]
