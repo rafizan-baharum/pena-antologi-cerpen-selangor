@@ -38,6 +38,7 @@ ORDER = [
     "sinekdoke",
     "anak-sulung-tidak-menangis-di-tepi-kubur",
     "lagu-terakhir-nami",
+    "syif-terakhir",
 ]
 
 # Optional front matter. Leave empty to omit.

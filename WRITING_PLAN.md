@@ -3,8 +3,8 @@
 
 | Metrik | Nilai |
 |---|---|
-| Jumlah unit | 13 |
-| Jumlah patah perkataan | 23,435 (kiraan `wc -w` termasuk baris tajuk) |
+| Jumlah unit | 14 |
+| Jumlah patah perkataan | 24,300 (kiraan `wc -w` termasuk baris tajuk) |
 | Fasa semasa | **Fasa 0 — Scaffold** |
 | Syarat penghantaran | `SUBMISSION.md` (belum diisi) |
 
@@ -25,6 +25,7 @@
 | 11 | Sinekdoke | `11-sinekdoke.md` | 2,000 | Draf |
 | 12 | Anak Sulung Tidak Menangis di Tepi Kubur | `12-anak-sulung-tidak-menangis-di-tepi-kubur.md` | 1,076 | Draf |
 | 13 | Lagu Terakhir Nami | `13-lagu-terakhir-nami.md` | 2,332 | Draf |
+| 14 | Syif Terakhir | `14-syif-terakhir.md` | 863 | Draf (adaptasi dari "The Last Shift"; Ampang Jaya) |
 
 Status: Idea → Draf → Semak → Voice pass → AI_NONO → Siap
 
