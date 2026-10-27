@@ -1,16 +1,22 @@
 # Lagu Terakhir Nami
 
+**Intro**
+
 Bila sebenarnya hidup Nami mula jadi begini? Dia cuba mencari satu tarikh yang tepat.
 
 Mungkin ketika lagu-lagunya berhenti dimainkan di radio. Mungkin ketika pemilik kelab mula memilih penyanyi yang lebih muda. Mungkin ketika orang sudah tidak membeli album, kemudian tidak lagi memuat turun lagu, kemudian tidak lagi sanggup berhenti selama tiga minit untuk mendengar seseorang menyanyi.
 
 Atau mungkin hidup tidak berubah pada satu hari tertentu. Mungkin ia berlaku perlahan-lahan. Satu persembahan dibatalkan. Satu panggilan tidak dibalas. Satu bil tertunggak. Satu alat muzik dijual untuk membayar benda lain. Sedikit demi sedikit, sehingga seorang lelaki yang pernah mendengar lagunya dimainkan dari tingkap kereta orang tidak dikenali akhirnya duduk di atas bangku plastik, bermain di hadapan kedai-kedai yang sudah ditutup.
 
-Nami memandang gitar di atas pahanya. Dia memetik tiga kord yang sama, kord yang sudah dimainkan sejak zaman rambutnya masih panjang, seluar jeannya masih ketat, dan orang belum memanggilnya abang.
+Nami memandang gitar di atas pahanya. Dia memetik tiga kord yang sama, kord yang sudah dimainkan sejak zaman rambutnya masih panjang, seluar jeannya masih ketat, dan orang belum memanggilnya pakcik.
+
+---
+
+**Rangkap Satu**
 
 Dulu, Nami bukan orang Kuala Lumpur. Dia datang dari Terengganu, dari Mengabang Telipot, tempat orang lebih selesa dengan laut dari darat. Dia datang ke Selangor dengan satu beg pakaian, satu gitar, dan satu keyakinan yang tidak sempat diuji oleh hidup. Waktu itu dia masih percaya pada satu perkara: kalau lagu cukup jujur, dunia akan mendengar.
 
-Dia menandatangani kontrak rakaman pertamanya di Petaling Jaya. Studio itu berbau karpet lama dan kopi murah. Mereka kata dia “suara baharu dari pantai timur”. Mereka kata dia ada “keunikan akar tradisi”. Album itu keluar. Satu album.
+Dia menandatangani kontrak rakaman pertamanya di Petaling Jaya. Studio di SS 23 itu berbau karpet lama dan kopi murah. Mereka kata dia “suara baharu dari pantai timur”. Mereka kata dia ada “keunikan akar tradisi”. Album itu keluar. Satu album.
 
 Selepas itu, dunia tidak menunggu. Radio berhenti memutarkan lagunya. Label mula fokus pada nama lain. Kontrak kedua tidak pernah datang. Dalam industri, satu album yang tidak meletup bukan permulaan. Ia penamat yang sopan. Nami menjadi “has been” sebelum dia sempat memahami apa maksud “been”.
 
@@ -66,6 +72,10 @@ Radzif memandang ke luar kedai.
 
 Nami tidak menjawab. Ayat itu mudah keluar daripada mulut orang yang mendapat tempat lebih baik selepas dunia berubah. Dia membiarkannya berlalu, kerana ada perkara lain yang lebih berat untuk disebut.
 
+---
+
+**Rangkap Dua**
+
 Nami ada enam orang anak. Isterinya baru diberhentikan kerja dari sebuah kedai pakaian. Sewa rumah tertunggak dua bulan. Anak ketiganya perlu rawatan susulan. Yuran sekolah mula dikutip semula selepas cuti. Dan dia sendiri, bekas penyanyi yang pernah “ditandatangani label”, kini hanya nama yang orang ingat samar-samar, kalau ingat pun. Nami menceritakan semuanya, bukan terus tetapi sedikit demi sedikit, seolah-olah mengeluarkan barang dari beg yang terlalu penuh.
 
 Radzif mengusap dagu.
@@ -91,6 +101,10 @@ Ayah menepuk lantai di sebelahnya. Nami duduk.
 “Muzik ni panggilan jiwa. Mu kena rela jadi suara orang yang dunia tak mahu dengar. Kalau mu nok duit, kerja benda lain.”
 
 Waktu itu Nami fikir ayah cuba menghalangnya. Lama kemudian, barulah dia faham ayah cuma memberitahu harga sebenar.
+
+---
+
+**Pra-korus**
 
 Nami menulis *proposal* itu. Dia mengumpulkan pantun pelaut, lagu mendayung, lagu yang dinyanyikan nelayan ketika menarik pukat. Dia mencari rakaman lama ayah yang masih tersimpan dalam kaset. Dia mahu lagu-lagu itu kedengaran lama, tetapi tidak mati.
 
@@ -132,27 +146,31 @@ Pak Man ketawa. Nami menceritakan tentang dana dan Radzif, dan Pak Man menyapu m
 
 Nami memandang lelaki tua itu.
 
-“Kita selalu tengok kawan lama sebagai orang yang kita kenal dulu,” kata Pak Man. “Lambat sikit kita nampak siapa dia sekarang.”
+“Kita selalu tengok kawan lama sebagai orang yang kita kenal dulu,” kata Pak Man. “Sebenarnya kita kena lihat siapa dia sekarang.”
 
-Nami tersenyum. Sebelum perkara buruk berlaku, amaran selalunya hanya kedengaran seperti orang tua yang terlalu banyak berfikir.
+Nami tersenyum. Amaran selalunya hanya kedengaran seperti orang tua yang terlalu banyak berfikir.
 
 Album itu siap selepas dua bulan. Ada rebana, gambus, bunyi ombak, dan suara seorang nelayan tua dari Setiu yang dia rakam di bawah rumahnya. Pada lagu terakhir, Nami memasukkan melodi ayah, hanya beberapa bar. Orang lain mungkin tidak akan perasan. Nami tetap mengenalinya.
 
-Dia mendengar keseluruhan album seorang diri di dalam studio. Lampu utama sudah dipadam, hanya cahaya monitor komputer mengenai mukanya. Itulah kerja terbaiknya sejak bertahun-tahun.
+Dia mendengar keseluruhan album seorang diri di dalam studio. Lampu utama sudah dipadam, hanya cahaya monitor komputer mengenai mukanya. Mungking itulah kerja terbaiknya sejak bertahun-tahun.
 
 Nami menyerahkan pemacu kecil itu kepada Radzif.
 
 “Bagus,” kata Radzif. “Aku uruskan.”
 
-Nami pulang membawa satu perkara yang sudah lama tidak ada di rumahnya. Harapan.
+Nami pulang membawa satu perkara yang sudah lama kedengaran di rumahnya. Harapan.
+
+---
+
+**Jambatan**
 
 Sebulan pertama, dia menunggu. Bulan kedua, dia mula menelefon. Radzif tidak menjawab. Pembantunya berkata dia bermesyuarat, dan ketika Nami datang ke pejabat, Radzif berada di luar kawasan.
 
-Suatu pagi, Nami terdengar dua lelaki di kedai kopi bercakap tentang sebuah album baharu tajaan kerajaan. Lagu rakyat Terengganu. Nami mengeluarkan telefon. Gambar Radzif muncul dahulu: sut hitam, senyum lebar, logo kementerian di belakang. Di sebelahnya, nama sebuah syarikat yang Nami tidak pernah dengar. Senarai lagunya sama.
+Suatu pagi, Nami terdengar dua lelaki di kedai kopi bercakap tentang sebuah album baharu tajaan kerajaan. Lagu rakyat Terengganu. Nami mengeluarkan telefon dan terus mulakan carian. Gambar Radzif muncul dahulu: sut hitam, senyum lebar, logo kementerian di belakang. Di sebelahnya, nama sebuah syarikat yang Nami tidak pernah dengar. Senarai lagunya sama.
 
-Nami menekan satu tajuk. Petikan gambusnya keluar daripada pembesar suara telefon, kemudian melodi ayah. Dia meletakkan telefon di atas meja, dan tangannya masih di situ beberapa saat selepas telefon itu dilepaskan.
+Di senarai pautan lagu-lagu tersebut, Nami menekan satu tajuk. Petikan gambusnya keluar daripada pembesar suara telefon, kemudian melodi ayah. Dia meletakkan telefon di atas meja. Nafasnya tersentak, dan dia memandang skrin itu seperti memandang sesuatu yang mustahil.
 
-Malam itu dia pergi ke rumah Radzif. Rumah itu berpagar tinggi, rumputnya dipotong rata, lampu kecil dipasang di sepanjang laluan masuk. Nami menekan loceng berkali-kali. Radzif keluar dengan wajah letih.
+Malam itu dia pergi ke rumah Radzif. Rumah itu berpagar tinggi, rumputnya dipotong rata, lampu solar kecil dipasang di sepanjang laluan masuk. Nami menekan loceng berkali-kali. Radzif keluar dengan wajah letih.
 
 “Aku dah cuba telefon kau.”
 
@@ -198,6 +216,10 @@ Dia berpaling dan berjalan ke motosikal. Tangannya menggigil ketika memasukkan k
 
 Dalam perjalanan pulang, dia teringat ayah. *Jangan jual lagu, Nami.* Ayah tidak pernah menyebut ayat itu, tidak dengan kata-kata begitu. Namun malam itu, suara itu kedengaran jelas. *Lagu itu darah mu sendiri.*
 
+---
+
+**Korus**
+
 Keesokan harinya, Nami kembali ke Kompleks PKNS Shah Alam. Dia duduk di tempat biasa, meletakkan bekas gitar di lantai, kemudian menutupnya semula. Hari itu dia tidak mahu wang sesiapa.
 
 Dia menyandarkan telefon pada bekas gitar, kamera menghadap mukanya. Tangannya agak lama di situ. Dia tahu apa yang orang muda buat sekarang. Satu video, satu malam, sejuta orang yang tidak pernah memandang mukanya. Dia malu kerana mengharapkan perkara yang sama.
@@ -214,14 +236,34 @@ Nami teringat kata-kata ayah. Pemuzik perlu rela menjadi suara orang yang dunia 
 
 Nami menutup mata. Dia menyanyikan rangkap terakhir.
 
-Selepas kord terakhir berhenti, tiada siapa bercakap. Bunyi pendingin hawa tua kembali memenuhi koridor. Dari luar, sebuah ambulans melintas. Nami meletakkan tangan di atas tali gitar supaya bunyinya benar-benar mati, kemudian menekan butang berhenti.
+Pada baris terakhir, melodi ayah masuk, beberapa bar yang tiada siapa akan perasan. Nami menyanyikannya perlahan, tanpa kata.
 
-Di ruang kapsyen, dia menaip *Lagu terakhir*, memandangnya, lalu memadam dan menukarnya kepada *Lagu baharu*. Dia menekan muat naik. Satu bar isyarat berkelip lemah di penjuru skrin.
+Di hujung koridor, seseorang menyambungnya.
 
-Dia tidak tahu berapa ramai yang akan menonton, atau sama ada esok dia masih perlu duduk di bangku plastik yang sama, memainkan tiga kord lama untuk orang yang tidak mengenalinya. Namun lagu itu masih miliknya.
+Ibu budak itu. Dia mengira nada lebih awal daripada Nami, kemudian menyanyikan kata-katanya, kata-kata yang tiada dalam mana-mana senarai dana: lagu mendayung yang dinyanyikan datuk neneknya, dalam loghat Kemaman. Nami membuka mata. Perempuan itu tidak memandangnya. Dia memandang ke tempat yang jauh, dan menyanyi.
 
-Bila sebenarnya hidup Nami mula jadi begini?
+Pekerja pembersihan mengetuk pemegang trolinya, mengikut rentak rebana yang tiada. Budak itu mengetuk dinding. Lelaki yang tadi memperlahankan langkah sudah berhenti dan berdiri dengan tangan di poket, mulutnya bergerak separuh jalan di belakang lagu.
 
-Mungkin tidak ada satu tarikh yang tepat. Mungkin hidupnya sampai ke situ sedikit demi sedikit, dari Terengganu ke Selangor, dari pentas kecil ke label rakaman, dari “harapan baharu” ke “has been”, melalui persembahan yang dibatalkan, panggilan yang tidak dijawab, bil yang tertunggak dan lagu yang diambil orang.
+Nami menaikkan kunci. Satu tangga, kemudian satu lagi. Suaranya yang pecah pada rangkap kedua kali ini tidak pecah. Ia naik melepasi tempat yang dia sangka sudah lama tertutup dalam dirinya, dan memegang nada itu lebih lama daripada yang paru-parunya patut mampu. Koridor yang berbau lumpur itu penuh. Bunyi itu memantul pada bidai besi, pada pintu kedai yang tidak akan dibuka lagi, pada garisan coklat paras lutut di dinding.
 
-Tetapi pagi itu, untuk pertama kali setelah sekian lama, ada sesuatu yang boleh ditunggu. Nami menarik skrin telefon ke bawah. Satu tontonan. Dia menarik sekali lagi.
+Dia memetik kord terakhir dan membiarkannya.
+
+Kali ini ada yang bertepuk tangan.
+
+---
+
+**Koda**
+
+Di ruang kapsyen, dia menaip *Lagu terakhir*, memandangnya, lalu memadam dan menukarnya kepada *Lagu baharu*. Dia menekan muat naik.
+
+Telefon bergetar di atas bekas gitar. Sekali, kemudian sekali lagi. Nami tidak melihatnya.
+
+Bila sebenarnya hidup Nami mula jadi begini? Mungkin tidak ada satu tarikh yang tepat. Hidupnya sampai ke situ sedikit demi sedikit, dari Terengganu ke Selangor, dari pentas kecil ke label rakaman, dari “harapan baharu” ke “has been”, melalui persembahan yang dibatalkan, panggilan yang tidak dijawab, bil yang tertunggak dan lagu yang diambil orang. Kalau hidup boleh turun sedikit demi sedikit, ia boleh naik begitu juga.
+
+Nami membuka bekas gitar. Budak tadi datang dan meletakkan sekeping syiling, dan kali ini dia memandang tepat ke muka Nami.
+
+“Pakcik,” kata ibunya. “Ada lagi?”
+
+“Ada.”
+
+Dia meletakkan jari pada fret. Tiga kord yang sama, kord dari zaman rambutnya masih panjang dan orang belum memanggilnya pakcik. Kemudian dia memetik satu lagi, kord yang tidak pernah dia mainkan dalam hidupnya, yang dia cari hanya dengan telinga. Bunyinya tinggi dan terang, dan ia naik sampai ke tingkat atas.
