@@ -34,7 +34,7 @@ ORDER = [
     "ikan-halus-sungai-bernam",
     "hanya-dua-puluh-minit",
     "siakap-tasik-biru",
-    "raja-puisi-tiga-jam",
+    "raja-puisi",
     "sinekdoke",
     "anak-sulung-tidak-menangis-di-tepi-kubur",
     "lagu-terakhir-nami",
