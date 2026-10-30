@@ -3,8 +3,8 @@
 
 | Metrik | Nilai |
 |---|---|
-| Jumlah unit | 14 |
-| Jumlah patah perkataan | 24,300 (kiraan `wc -w` termasuk baris tajuk) |
+| Jumlah unit | 15 |
+| Jumlah patah perkataan | 25,961 (kiraan `wc -w` termasuk baris tajuk) |
 | Fasa semasa | **Fasa 0 — Scaffold** |
 | Syarat penghantaran | `SUBMISSION.md` (belum diisi) |
 
@@ -12,20 +12,21 @@
 
 | # | Tajuk | Fail | Kata | Status |
 |---|---|---|---|---|
-| 1 | Kisah-kisah Dongeng Tok Nek | `01-kisah-kisah-dongeng-tok-nek.md` | 2,412 | Draf |
-| 2 | Mak Su Datang Hari Ini | `02-mak-su-datang-hari-ini.md` | 2,001 | Draf |
-| 3 | Titik Panas | `03-titik-panas.md` | 1,571 | Draf |
-| 4 | Antara Buku dan Buku Lima | `04-antara-buku-dan-buku-lima.md` | 1,247 | Draf |
-| 5 | Gelas Kaca untuk Ibu | `05-gelas-kaca-untuk-ibu.md` | 1,620 | Draf |
-| 6 | Sekejap Singgah | `06-sekejap-singgah.md` | 2,022 | Draf |
-| 7 | Ikan Halus Sungai Bernam | `07-ikan-halus-sungai-bernam.md` | 2,121 | Draf |
-| 8 | Hanya Dua Puluh Minit Dari Kota | `08-hanya-dua-puluh-minit.md` | 1,119 | Draf |
-| 9 | Siakap Tasik Biru | `09-siakap-tasik-biru.md` | 2,196 | Draf |
-| 10 | Raja Puisi | `10-raja-puisi.md` | 1,445 | Draf |
-| 11 | Sinekdoke | `11-sinekdoke.md` | 2,000 | Draf |
+| 1 | Kisah-kisah Dongeng Tok Nek | `01-kisah-kisah-dongeng-tok-nek.md` | 2,420 | Draf |
+| 2 | Sekejap Singgah | `02-sekejap-singgah.md` | 2,022 | Draf |
+| 3 | Titik Panas | `03-titik-panas.md` | 1,557 | Draf |
+| 4 | Mak Su Datang Hari Ini | `04-mak-su-datang-hari-ini.md` | 1,996 | Draf |
+| 5 | Sinekdoke | `05-sinekdoke.md` | 1,990 | Draf |
+| 6 | Gelas Kaca untuk Ibu | `06-gelas-kaca-untuk-ibu.md` | 1,620 | Draf |
+| 7 | Antara Buku dan Buku Lima | `07-antara-buku-dan-buku-lima.md` | 1,247 | Draf |
+| 8 | Ikan Halus Sungai Bernam | `08-ikan-halus-sungai-bernam.md` | 2,121 | Draf |
+| 9 | Raja Puisi | `09-raja-puisi.md` | 1,512 | Draf |
+| 10 | Siakap Tasik Biru | `10-siakap-tasik-biru.md` | 2,196 | Draf |
+| 11 | Lagu Terakhir Nami | `11-lagu-terakhir-nami.md` | 2,535 | Draf |
 | 12 | Anak Sulung Tidak Menangis di Tepi Kubur | `12-anak-sulung-tidak-menangis-di-tepi-kubur.md` | 1,076 | Draf |
-| 13 | Lagu Terakhir Nami | `13-lagu-terakhir-nami.md` | 2,332 | Draf |
-| 14 | Syif Terakhir | `14-syif-terakhir.md` | 863 | Draf (adaptasi dari "The Last Shift"; Ampang Jaya) |
+| 13 | Hanya Dua Puluh Minit Dari Kota | `13-hanya-dua-puluh-minit.md` | 1,119 | Draf |
+| 14 | Di Bawah Payung Rahmah Ini | `14-di-bawah-payung-rahmah-ini.md` | 1,681 | Draf (Puncak Alam; ditambah) |
+| 15 | Syif Terakhir | `15-syif-terakhir.md` | 869 | Draf (adaptasi dari "The Last Shift"; Ampang Jaya) |
 
 Status: Idea → Draf → Semak → Voice pass → AI_NONO → Siap
 

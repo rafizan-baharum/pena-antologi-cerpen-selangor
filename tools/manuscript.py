@@ -36,18 +36,19 @@ AUTHOR_DETAILS = [
 # stories/NN-<slug>.md. See MANUSCRIPT_ORDER.md.
 ORDER = [
     "kisah-kisah-dongeng-tok-nek",
-    "mak-su-datang-hari-ini",
-    "titik-panas",
-    "antara-buku-dan-buku-lima",
-    "gelas-kaca-untuk-ibu",
     "sekejap-singgah",
-    "ikan-halus-sungai-bernam",
-    "hanya-dua-puluh-minit",
-    "siakap-tasik-biru",
-    "raja-puisi",
+    "titik-panas",
+    "mak-su-datang-hari-ini",
     "sinekdoke",
-    "anak-sulung-tidak-menangis-di-tepi-kubur",
+    "gelas-kaca-untuk-ibu",
+    "antara-buku-dan-buku-lima",
+    "ikan-halus-sungai-bernam",
+    "raja-puisi",
+    "siakap-tasik-biru",
     "lagu-terakhir-nami",
+    "anak-sulung-tidak-menangis-di-tepi-kubur",
+    "hanya-dua-puluh-minit",
+    "di-bawah-payung-rahmah-ini",
     "syif-terakhir",
 ]
 
