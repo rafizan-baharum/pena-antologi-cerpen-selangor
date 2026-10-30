@@ -13,7 +13,7 @@ import manuscript as m
 import reference_docx
 
 BUILD = m.REPO / "build"
-STEM = "ANTOLOGI"
+STEM = "KUMCER"
 HEADER = m.REPO / "tools" / "latex-header.tex"
 COVER = (m.FRONT / m.COVER) if m.COVER else None
 

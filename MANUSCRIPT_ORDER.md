@@ -1,5 +1,5 @@
 # MANUSCRIPT_ORDER.md
-## Susunan Antologi Muktamad
+## Susunan Kumcer Muktamad
 
 *Sumber kebenaran tunggal untuk urutan. Semua fail dalam `stories/`. Kekalkan selaras dengan `ORDER` dalam `tools/manuscript.py`.*
 
@@ -17,4 +17,4 @@ _Terangkan kenapa cerpen pertama membuka, mana yang menutup, dan irama di tengah
 
 ## Output Dijana
 
-`python3 tools/assemble.py && python3 tools/build.py` → `MANUSCRIPT.md`, `build/ANTOLOGI.*`.
+`python3 tools/assemble.py && python3 tools/build.py` → `MANUSCRIPT.md`, `build/KUMCER.*`.

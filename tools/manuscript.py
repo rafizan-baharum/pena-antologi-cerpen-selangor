@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Shared manuscript model for the Selangor cerpen anthology.
+"""Shared manuscript model for the Selangor kumcer (single-author story collection).
 
-Single source of truth for anthology order and for turning the per-story
+Single source of truth for collection order and for turning the per-story
 files in stories/ into assembled bodies. Both assemble.py and build.py
 import from here, so the order lives in exactly one place.
 
@@ -32,7 +32,7 @@ AUTHOR_DETAILS = [
     ("E-mel", EMAIL),
 ]
 
-# Canonical anthology order, one slug per story. Story files are
+# Canonical collection order, one slug per story. Story files are
 # stories/NN-<slug>.md. See MANUSCRIPT_ORDER.md.
 ORDER = [
     "kisah-kisah-dongeng-tok-nek",
@@ -76,7 +76,7 @@ IMPRINT = [
         "tidak disengajakan.",
     ),
     ("rule", None),
-    ("line", "Antologi cerpen · Bahasa Malaysia"),
+    ("line", "Kumpulan cerpen · Bahasa Malaysia"),
     ("line", "{n} cerpen · {words} patah perkataan"),
     ("line", "Manuskrip. Tidak untuk edaran."),
     ("rule", None),
@@ -261,7 +261,7 @@ def metadata_yaml(items):
         f"{sub}"
         f'author: "{AUTHOR}"\n'
         f"lang: {LANG}\n"
-        f'description: "Antologi {len(items)} cerpen."\n'
+        f'description: "Kumpulan {len(items)} cerpen."\n'
         "---\n"
     )
 

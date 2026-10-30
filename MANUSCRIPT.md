@@ -16,7 +16,7 @@ Karya ini adalah fiksyen. Semua watak dan peristiwa adalah rekaan. Sebarang pers
 
 <br>
 
-Antologi cerpen · Bahasa Malaysia
+Kumpulan cerpen · Bahasa Malaysia
 
 14 cerpen · 24,216 patah perkataan
 

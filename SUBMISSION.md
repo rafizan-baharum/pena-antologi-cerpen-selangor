@@ -6,7 +6,7 @@
 | Perkara | Nilai |
 |---|---|
 | Penerima / penerbit / penganjur | Persatuan Penulis Nasional Malaysia (PENA) |
-| Jenis penghantaran | _antologi penuh / cerpen individu / kertas cadangan_. Borang minta *Monograph* (satu/ramai pengarang untuk keseluruhan buku) atau *Edited Volume* (setiap bab pengarang berbeza) — pilih bila penulis antologi diputuskan |
+| Jenis penghantaran | Kumcer penuh — *Monograph* (seorang pengarang untuk keseluruhan buku), bukan *Edited Volume* |
 | Tarikh tutup | _TBD_ |
 | Bilangan cerpen | _TBD_ |
 | Had kata setiap cerpen | _TBD_ |
@@ -70,9 +70,9 @@ Beri sebanyak mungkin butiran supaya editor dapat menilai karya.
 ## Standard Penerbitan
 
 - **ISBN / e-ISBN** + kod bar daripada Perpustakaan Negara Malaysia. Minimum **38 muka surat** untuk dapat ISBN.
-- **ISSN / e-ISSN**: untuk penerbitan berkala sahaja (tidak terpakai untuk antologi ini).
+- **ISSN / e-ISSN**: untuk penerbitan berkala sahaja (tidak terpakai untuk kumcer ini).
 - **Data CIP** (Cataloguing in Publication) daripada Perpustakaan Negara Malaysia untuk semua buku.
-- Pengindeksan jurnal (MyJurnal, Google Scholar, MyCite, Scopus): tidak terpakai untuk antologi.
+- Pengindeksan jurnal (MyJurnal, Google Scholar, MyCite, Scopus): tidak terpakai untuk kumcer.
 
 ## Penilaian
 
@@ -90,4 +90,4 @@ Beri sebanyak mungkin butiran supaya editor dapat menilai karya.
 | Pengarang bersama | Dua atau lebih penyumbang signifikan; kongsi hak cipta |
 | Ilustrator | Rekaan visual: lukisan, gambar rajah |
 
-Antologi ini kemungkinan perlukan peranan **Penyusun** (atau Editor) di samping Penulis. Putuskan sebelum isi `AUTHOR` dalam `tools/manuscript.py`.
+Kumcer ini ditulis oleh seorang penulis; peranan **Penyusun** / Editor tidak diperlukan.
